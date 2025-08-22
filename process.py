@@ -5,7 +5,7 @@ import numpy as np
 from tqdm import tqdm
 import argparse
 from joblib import delayed, Parallel
-from parser import FeatureListParser
+from feature_parser import FeatureListParser
 from myclient import MyClient
 
 

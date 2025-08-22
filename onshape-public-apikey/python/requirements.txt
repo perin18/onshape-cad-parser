@@ -1,7 +1,7 @@
 appnope==0.1.0
 closure-linter==2.3.13
 decorator==4.0.9
-pyreadline==2.1
+gnureadline==6.3.3
 ipython==4.1.2
 ipython-genutils==0.1.0
 licenser==1.2.3
@@ -19,7 +19,3 @@ six==1.10.0
 traitlets==4.2.1
 uncommitted==1.6
 virtualenv==15.0.1
-PyYAML==5.3.1
-joblib==0.14.1
-numpy==1.15.4
-tqdm==4.48.2

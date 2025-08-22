@@ -1,3 +1,8 @@
+import sys
+import os
+
+sys.path.append(os.path.join(os.path.dirname(__file__), 'onshape-public-apikey', 'python'))
+
 from apikey.client import Client
 
 

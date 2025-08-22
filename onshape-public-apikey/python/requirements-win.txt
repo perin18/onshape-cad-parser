@@ -19,7 +19,3 @@ six==1.10.0
 traitlets==4.2.1
 uncommitted==1.6
 virtualenv==15.0.1
-PyYAML==5.3.1
-joblib==0.14.1
-numpy==1.15.4
-tqdm==4.48.2
